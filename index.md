@@ -21,13 +21,13 @@ Cette documentation vous accompagne dans l’utilisation de la plateforme, des o
 
 La documentation est structurée autour des 4 grands modules d’Educentre :
 
-[🧩 Educentre Platform (Gratuit)](./platform/index.md)
+[🧩 Educentre Platform (Gratuit)](./platform/presentation.md)
 
-[📈 Educentre Marketing (Module payant)](./marketing/index.md)
+[📈 Educentre Marketing (Module payant)](./marketing/presentation.md)
 
-[🤖 Educentre Agents (Module payant)](./agents/index.md)
+[🤖 Educentre Agents (Module payant)](./agents/presentation.md)
 
-[🤝 Le Club Educentre (Module payant)](./club/index.md)
+[🤝 Le Club Educentre (Module payant)](./club/presentation.md)
 
 ---
 
