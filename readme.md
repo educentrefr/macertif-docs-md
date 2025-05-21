@@ -2,7 +2,7 @@
 
 Bienvenue dans le dépôt GitHub de la **documentation officielle d’Educentre**, la plateforme tout-en-un pour la gestion de formations, l'automatisation pédagogique et la montée en compétence des professionnels du secteur.
 
-Ce dépôt contient le code open source de la documentation.
+Ce dépôt contient le code open source de la documentation : [https://docs.educentre.fr](https://docs.educentre.fr)
 
 ---
 
