@@ -21,30 +21,13 @@ Cette documentation vous accompagne dans l’utilisation de la plateforme, des o
 
 La documentation est structurée autour des 4 grands modules d’Educentre :
 
-### 🧩 Educentre Platform (Gratuit)
-- [Gestion des formations](./platform/gestion-formations.md)
-- [Suivi et assiduité des apprenants](./platform/suivi-assiduite.md)
-- [Planification des sessions](./platform/planification-sessions.md)
-- [Gestion administrative](./platform/gestion-administrative.md)
-- [Communication & rapports](./platform/communication-rapport.md)
-- [Conformité Qualiopi](./platform/qualiopi.md)
+[🧩 Educentre Platform (Gratuit)](./platform/index.md)
 
-### 📈 Educentre Marketing (Module payant)
-- [Création de tunnels de vente](./marketing/tunnels.md)
-- [Automatisation emailing et relances](./marketing/emailing.md)
-- [CRM formation](./marketing/crm.md)
+[📈 Educentre Marketing (Module payant)](./marketing/index.md)
 
-### 🤖 Educentre Agents (Module payant)
-- [Correction automatique de copies](./agents/correction.md)
-- [Génération de supports de cours (PPTX, PDF)](./agents/supports.md)
-- [Création d'évaluations](./agents/quiz.md)
-- [Création d'ateliers et de TP](./agents/atelier.md)
+[🤖 Educentre Agents (Module payant)](./agents/index.md)
 
-### 🤝 Le Club Educentre (Module payant)
-- [Accès aux événements et ateliers](./club/evenements.md)
-- [Espaces de travail et ressources](./club/espaces.md)
-- [Accès à des missions de formation](./club/missions.md)
-- [Communauté & entraide](./club/communaute.md)
+[🤝 Le Club Educentre (Module payant)](./club/index.md)
 
 ---
 
