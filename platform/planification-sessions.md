@@ -66,7 +66,7 @@ Une fois toutes les modifications réalisées :
 ## 📞 Besoin d’aide ?
 
 - Regardez la [vidéo de démonstration](https://www.youtube.com/watch?v=7GsTgJSm5Es)
-- Ou contactez-nous directement via le [centre de support](https://educentre.fr/contact)
+- Ou contactez-nous directement via le [centre de support](https://educentre.fr/contactez-nous)
 
 ---
 

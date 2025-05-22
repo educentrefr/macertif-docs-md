@@ -36,7 +36,7 @@ Vous trouverez ici toutes les ressources nécessaires pour **prendre en main Edu
 
 Notre équipe support est là pour vous aider :
 
-- Consultez notre [centre de support](https://educentre.fr/contact) pour des guides, FAQ et assistance technique.  
+- Consultez notre [centre de support](https://educentre.fr/contactez-nous) pour des guides, FAQ et assistance technique.  
 - Ou contactez-nous directement via votre tableau de bord Educentre pour un accompagnement personnalisé.
 
 ---
