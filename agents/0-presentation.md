@@ -8,3 +8,4 @@ Gagnez un temps précieux avec l’IA pour automatiser vos tâches pédagogiques
 - 📄 [J’ai besoin de générer des supports de cours (PPTX, PDF)](./supports.md)  
 - 🧠 [J’ai besoin de créer facilement des évaluations](./quiz.md)  
 - 📂 [J’ai besoin de concevoir des ateliers ou des travaux pratiques](./atelier.md)
+- 🎯 [J’ai besoin d’entraîner mes apprenants avec un tuteur IA interactif](./tuteur_ia.md)
