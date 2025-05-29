@@ -1,4 +1,6 @@
-# 📚 Génération de supports de cours (PPTX, PDF)
+# Présentation
+
+## 📚 Génération de supports de cours (PPTX, PDF)
 
 Le module **Educentre Agents** vous permet de générer automatiquement des **supports de cours professionnels** au format **PowerPoint (PPTX)** ou **PDF**, à partir de simples instructions pédagogiques ou d’un déroulé de formation.
 

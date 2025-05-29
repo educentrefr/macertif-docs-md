@@ -1,4 +1,6 @@
-# ✍️ Correction automatique de copies
+# Présentation
+
+## ✍️ Correction automatique de copies
 
 Avec le module **Educentre Agents**, vous bénéficiez d’un outil intelligent de **correction automatique de copies**, conçu pour faire gagner un temps considérable aux formateurs tout en maintenant un haut niveau d’exigence pédagogique.
 

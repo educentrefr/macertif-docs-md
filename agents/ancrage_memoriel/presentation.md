@@ -1,4 +1,6 @@
-# 🎓 Tutoriel interactif avec le tuteur IA
+# Présentation
+
+## 🎓 Ancrage mémoriel
 
 Le module **Tuteur IA d’Educentre** vous permet de **challenger vos apprenants** grâce à une série de **questions personnalisées**, générées automatiquement à partir de vos propres contenus pédagogiques.
 

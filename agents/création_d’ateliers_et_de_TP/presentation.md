@@ -1,4 +1,6 @@
-# 🛠️ Création d’ateliers et de TP
+# Présentation
+
+## 🛠️ Création d’ateliers et de TP
 
 Le module **Educentre Agents** vous permet de générer des **ateliers pédagogiques** et **travaux pratiques** sur-mesure à partir de simples instructions ou d’objectifs pédagogiques. Conçu pour les formateurs, il vous fait gagner un temps précieux dans la préparation de vos séances actives.
 
