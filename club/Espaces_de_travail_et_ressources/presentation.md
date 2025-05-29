@@ -1,4 +1,6 @@
-# 🧰 Espaces de travail et ressources
+# Présentation
+
+## 🧰 Espaces de travail et ressources
 
 Le **Club Educentre** met à disposition de ses membres des **espaces de travail collaboratifs** et une **bibliothèque de ressources pédagogiques** exclusives pour faciliter la co-création, l’échange de bonnes pratiques et la montée en compétence.
 

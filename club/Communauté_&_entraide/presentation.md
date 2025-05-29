@@ -1,4 +1,6 @@
-# 🤝 Communauté & entraide
+# Présentation
+
+## 🤝 Communauté & entraide
 
 Rejoindre le **Club Educentre**, c’est intégrer une **communauté active de professionnels de la formation**, animée par la collaboration, le partage de ressources et l’entraide quotidienne.
 

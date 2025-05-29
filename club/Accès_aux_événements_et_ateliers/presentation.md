@@ -1,4 +1,6 @@
-# 🎫 Accès aux événements et ateliers
+# Présentation
+
+## 🎫 Accès aux événements et ateliers
 
 En tant que membre du **Club Educentre**, vous bénéficiez d’un accès privilégié à une série d’**événements exclusifs**, d’**ateliers collaboratifs**, et de **sessions de montée en compétence** dédiées aux professionnels de la formation.
 

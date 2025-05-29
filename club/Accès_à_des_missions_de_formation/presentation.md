@@ -1,4 +1,6 @@
-# 🎯 Accès à des missions de formation
+# Présentation
+
+## 🎯 Accès à des missions de formation
 
 En tant que membre du **Club Educentre**, vous pouvez accéder à des **opportunités de missions pédagogiques** proposées par des organismes partenaires, entreprises, institutions publiques ou porteurs de projets de formation.
 
